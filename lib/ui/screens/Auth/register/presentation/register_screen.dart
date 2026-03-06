@@ -28,12 +28,6 @@ class _RegisterUserState extends State<RegisterScreen> {
     _phoneController = TextEditingController();
     _passwordController = TextEditingController();
     _confirmPasswordController = TextEditingController();
-
-    _nameController.text = "First User";
-    _emailController.text = "first.user@gmail.com";
-    _phoneController.text = "9898789876";
-    _passwordController.text = "pass@123";
-    _confirmPasswordController.text = "pass@123";
   }
 
   @override

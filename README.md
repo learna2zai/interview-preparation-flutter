@@ -1,7 +1,13 @@
 # Flutter Interview Preparation
 
-### Application Architecture
+### Topics 
+- UI creation - Auth(Login, Register), Main(Home, Settings)
+- Application routes - `go_router`
+- Bloc usage - application state management(`flutter_bloc`, `equatable`)
+- Secure Token storage - Jwt token storing
+- Backend API comsumed (Network layer) - `http`
 
+### Application Architecture
 ```
 lib
  ├── config
@@ -24,3 +30,6 @@ lib
  └── router
       └── app_router.dart
 ```
+
+### App Glipmses
+

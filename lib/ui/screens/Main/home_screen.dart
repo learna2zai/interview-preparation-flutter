@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 import 'package:interview_preparation_flutter/models/user.dart';
 import 'package:interview_preparation_flutter/services/user_repository.dart';
 import 'package:interview_preparation_flutter/ui/screens/Main/user_details.dart';
